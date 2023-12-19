@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.studproject.controller","l":"LoadexcelMod01"},{"p":"org.studproject.view","l":"StartApp"}];updateSearchResults();
